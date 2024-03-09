@@ -1,0 +1,11 @@
+venv
+.venv
+/venv
+/jars/*
+/storage/files/bronze/*
+/apps/royale_api/__pycache__/*
+/apps/etl_files/legacy/*
+my_key.txt
+apps/etl_files/legacy*
+*__pycache__**
+*.DS_Store
